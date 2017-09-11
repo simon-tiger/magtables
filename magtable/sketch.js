@@ -38,8 +38,8 @@ function setup() {
 
     var name = model.name;
 
-    var modelDropdown = select("#model");
-    modelDropdown.option(name);
+    // var modelDropdown = select("#model");
+    // modelDropdown.option(name);
 
     var tr = createElement("tr");
     tr.parent(table);
