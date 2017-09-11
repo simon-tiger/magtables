@@ -1,0 +1,212 @@
+{
+  "sets": [
+    {
+      "name": "Curve 20",
+      "square": 4,
+      "sector": 8,
+      "arch": 4,
+      "cone": 4,
+      "sphere": 0
+    },
+    {
+      "name": "Curve 40",
+      "square": 8,
+      "sector": 8,
+      "arch": 8,
+      "cone": 8,
+      "sphere": 8
+    },
+    {
+      "name": "Curve 50",
+      "square": 10,
+      "sector": 8,
+      "super_sector": 8,
+      "arch": 8,
+      "super_arch": 4,
+      "cone": 4,
+      "sphere": 8
+    }
+  ],
+  "models": [
+    {
+      "name": "Larva",
+      "square": 2,
+      "sector": 8,
+      "super_sector": 0,
+      "arch": 4,
+      "super_arch": 0,
+      "cone": 0,
+      "sphere": 0
+    },
+    {
+      "name": "Cylinder",
+      "square": 0,
+      "sector": 8,
+      "super_sector": 0,
+      "arch": 4,
+      "super_arch": 0,
+      "cone": 0,
+      "sphere": 0
+    },
+    {
+      "name": "Cone",
+      "square": 0,
+      "sector": 4,
+      "super_sector": 0,
+      "arch": 0,
+      "super_arch": 0,
+      "cone": 4,
+      "sphere": 0
+    },
+    {
+      "name": "Teepee",
+      "square": 0,
+      "sector": 4,
+      "super_sector": 0,
+      "arch": 4,
+      "super_arch": 0,
+      "cone": 4,
+      "sphere": 0
+    },
+    {
+      "name": "Tunnel",
+      "square": 4,
+      "sector": 4,
+      "super_sector": 0,
+      "arch": 4,
+      "super_arch": 0,
+      "cone": 0,
+      "sphere": 0
+    },
+    {
+      "name": "Tuilp",
+      "square": 2,
+      "sector": 8,
+      "super_sector": 0,
+      "arch": 4,
+      "super_arch": 0,
+      "cone": 0,
+      "sphere": 0
+    },
+    {
+      "name": "Pinwheel",
+      "square": 6,
+      "sector": 8,
+      "super_sector": 0,
+      "arch": 4,
+      "super_arch": 0,
+      "cone": 0,
+      "sphere": 0
+    },
+    {
+      "name": "Ball",
+      "square": 0,
+      "sector": 0,
+      "super_sector": 0,
+      "arch": 0,
+      "super_arch": 0,
+      "cone": 0,
+      "sphere": 8
+    },
+    {
+      "name": "Ice Cream",
+      "square": 0,
+      "sector": 0,
+      "super_sector": 0,
+      "arch": 0,
+      "super_arch": 0,
+      "cone": 4,
+      "sphere": 4
+    },
+    {
+      "name": "Sailboat",
+      "square": 8,
+      "sector": 8,
+      "super_sector": 0,
+      "arch": 8,
+      "super_arch": 0,
+      "cone": 0,
+      "sphere": 4
+    },
+    {
+      "name": "Castle",
+      "square": 8,
+      "sector": 0,
+      "super_sector": 0,
+      "arch": 8,
+      "super_arch": 0,
+      "cone": 4,
+      "sphere": 8
+    },
+    {
+      "name": "Capsule",
+      "square": 0,
+      "sector": 0,
+      "super_sector": 0,
+      "arch": 8,
+      "super_arch": 0,
+      "cone": 8,
+      "sphere": 0
+    },
+    {
+      "name": "Snake",
+      "square": 2,
+      "sector": 4,
+      "super_sector": 8,
+      "arch": 6,
+      "super_arch": 4,
+      "cone": 0,
+      "sphere": 0
+    },
+    {
+      "name": "Saturn",
+      "square": 0,
+      "sector": 0,
+      "super_sector": 4,
+      "arch": 0,
+      "super_arch": 0,
+      "cone": 0,
+      "sphere": 8
+    },
+    {
+      "name": "Fish",
+      "square": 8,
+      "sector": 4,
+      "super_sector": 4,
+      "arch": 2,
+      "super_arch": 2,
+      "cone": 0,
+      "sphere": 0
+    },
+    {
+      "name": "Bridge",
+      "square": 9,
+      "sector": 0,
+      "super_sector": 8,
+      "arch": 4,
+      "super_arch": 4,
+      "cone": 0,
+      "sphere": 0
+    },
+    {
+      "name": "Control Tower",
+      "square": 0,
+      "sector": 4,
+      "super_sector": 8,
+      "arch": 8,
+      "super_arch": 4,
+      "cone": 0,
+      "sphere": 4
+    },
+    {
+      "name": "Building",
+      "square": 0,
+      "sector": 0,
+      "super_sector": 8,
+      "arch": 8,
+      "super_arch": 4,
+      "cone": 4,
+      "sphere": 0
+    }
+  ]
+}
